@@ -1,6 +1,6 @@
 # Behavior_Tree_Project
 
-행동트리(Behavior Tree)를 사용한 AI 로봇 만들기
+행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
 
 ## Behavior_Tree 란?
 
