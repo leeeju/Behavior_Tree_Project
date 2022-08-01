@@ -2,6 +2,8 @@
 
 행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
 
+https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
+
 ## Behavior_Tree 란?
 
 ㅁ
