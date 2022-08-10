@@ -1,0 +1,3 @@
+bool get_battery_status
+---
+uint32 battery_status

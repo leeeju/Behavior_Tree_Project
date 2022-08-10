@@ -1,0 +1,5 @@
+uint32 way_point_number
+---
+uint32 go_to_xy_result
+---
+uint32 go_to_xy_feedback

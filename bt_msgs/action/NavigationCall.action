@@ -1,0 +1,13 @@
+# for request to navigation action route server
+# mode - 1 -> waypoint mode (defined position)
+# mode - 2 -> position mode
+uint32 mode
+uint32 waypoint_number
+geometry_msgs/PoseStamped pose
+---
+std_msgs/Empty navigate_result
+---
+geometry_msgs/PoseStamped current_pose
+builtin_interfaces/Duration navigation_time
+#int16 number_of_recoveries
+float32 distance_remaining
