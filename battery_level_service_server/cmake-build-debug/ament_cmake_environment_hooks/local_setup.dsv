@@ -1,0 +1,2 @@
+source;share/battery_level_service_server/environment/ament_prefix_path.sh
+source;share/battery_level_service_server/environment/path.sh
