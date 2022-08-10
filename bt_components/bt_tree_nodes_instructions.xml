@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!--
+  For instructions on using Groot and description of the following BehaviorTree nodes,
+  please refer to the groot_instructions.md and REAMDE.md respectively located in the 
+  behavior_tree package.
+-->
+<root>
+  <TreeNodesModel>
+    <!-- ############################### ACTION NODES ################################# -->
+    <Action ID="GetBatteryStatus">
+      <output_port name="battery_level"> robot battery level</output_port>
+    </Action>
+
+    <Action ID="NavigationCaller">
+      <input_port name="mode"> goal command mode, 1 - waypoint mode, 2 - position mode</input_port>
+      <input_port name="pose_x"> pose x value used in position mode </input_port>
+      <input_port name="pose_y"> pose y value used in position mode </input_port>
+      <input_port name="pose_z"> pose z value used in position mode </input_port>
+      <input_port name="orientation_x"> orientation x value used in position mode </input_port>
+      <input_port name="orientation_y"> orientation y value used in position mode </input_port>
+      <input_port name="orientation_z"> orientation z value used in position mode </input_port>
+      <input_port name="orientation_w"> orientation w value used in position mode </input_port>
+      <input_port name="waypoint"> waypoint number used in waypoint mode </input_port>
+    </Action>
+
+    <!-- ############################### CONDITION NODES ############################## -->
+    <Condition ID="CheckBattery">
+        <input_port name="battery_level">robot battery level</input_port>
+        <input_port name="battery_threshold">robot battery threshold</input_port>
+    </Condition>
+
+  </TreeNodesModel>
+</root>
