@@ -1,0 +1,14 @@
+<root main_tree_to_execute = "TestTree" >
+    <BehaviorTree ID="TestTree">
+        <Sequence name="root_sequence">
+            <Action ID="GetBatteryStatus" battery_level="{battery_level}" />
+            <Sequence name="navigate">
+                <Condition ID="CheckBattery" battery_level="{battery_level}" battery_threshold="50"/>
+                <Action ID="NavigationCaller" mode="1" waypoint="0"/>
+                <Action ID="NavigationCaller" mode="1" waypoint="1"/>
+                <Action ID="NavigationCaller" mode="1" waypoint="2"/>
+                <Action ID="NavigationCaller" mode="1" waypoint="3"/>
+            </Sequence>
+        </Sequence>
+    </BehaviorTree>
+</root>
