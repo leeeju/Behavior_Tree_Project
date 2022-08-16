@@ -4,7 +4,9 @@
 
 https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 
-참조 : https://github.com/sea-bass/turtlebot3_behavior_demos
+프로젝트 결과 영상 : https://www.youtube.com/watch?v=POLoxFDaWN0&t=5s
+
+코드 참조 : https://github.com/sea-bass/turtlebot3_behavior_demos
 
 ## Behavior_Tree 란?
 
