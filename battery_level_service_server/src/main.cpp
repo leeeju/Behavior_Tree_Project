@@ -1,6 +1,3 @@
-//
-// Created by shh on 2/14/22.
-//
 
 #include <cstdio>
 #include <memory>
