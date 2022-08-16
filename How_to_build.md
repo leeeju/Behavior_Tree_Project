@@ -32,6 +32,7 @@
 1. bt executor를 실행하여 console에 표시되는 xml파일중 원하는 파일의 번호를 입력하여 실행합니다.
 2. battery level은 ros command line tool을 이용하여 변경합니다.
    <pre><code>ros2 topic pub /battery_data std_msgs/msg/UInt32 data:\ test battery level\</code></pre>
+   ex : topic pub /battery_data std_msgs/msg/UInt32 data:\ 1\
 3. check battery 노드의 battery threshold는 해당 xml에서 변경할수 있습니다.
 
 ## Groot 연동하기
