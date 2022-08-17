@@ -1,6 +1,6 @@
 set(_AMENT_PACKAGE_NAME "battery_level_service_server")
 set(battery_level_service_server_VERSION "0.0.0")
-set(battery_level_service_server_MAINTAINER "shh <shh92@rastech.co.kr>")
+set(battery_level_service_server_MAINTAINER "leejh <02stu4@gmail.com>")
 set(battery_level_service_server_BUILD_DEPENDS "rclcpp" "std_msgs" "bt_msgs")
 set(battery_level_service_server_BUILDTOOL_DEPENDS "ament_cmake")
 set(battery_level_service_server_BUILD_EXPORT_DEPENDS "rclcpp" "std_msgs" "bt_msgs")
