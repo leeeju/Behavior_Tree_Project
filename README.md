@@ -2,7 +2,9 @@
 
 ## 행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
 
-## os구성 : ubuntu20.04, ROS foxy
+## OS구성 : ubuntu20.04, ROS foxy
+- 기간 : 2022.06 ~ 2022.08.17(수)
+- 인원 : Lee Ju Hyun
 
 이론 개념 참조 : https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 
