@@ -2,6 +2,8 @@
 
 행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
 
+os구성 : ubuntu20.02, ROS foxy
+
 https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 
 프로젝트 결과 영상 : https://www.youtube.com/watch?v=POLoxFDaWN0&t=5s
