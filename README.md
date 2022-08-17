@@ -1,14 +1,14 @@
 # Behavior_Tree_Project
 
-행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
+## 행동트리(Behavior Tree)를 사용한 AI(Artificial Intelligence) 로봇 만들기
 
-os구성 : ubuntu20.02, ROS foxy
+## os구성 : ubuntu20.04, ROS foxy
 
-https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
-
-프로젝트 결과 영상 : https://www.youtube.com/watch?v=POLoxFDaWN0&t=5s
+이론 개념 참조 : https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
 
 코드 참조 : https://github.com/sea-bass/turtlebot3_behavior_demos
+
+프로젝트 결과 영상 : https://www.youtube.com/watch?v=POLoxFDaWN0&t=5s
 
 ## Behavior_Tree 란?
 
