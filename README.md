@@ -24,3 +24,4 @@ https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_a
 
 환경이 준비 되었다면 YAML 파일을 실행시켜 좌표값을 트리에 넣어주면서 실행이 된다 
 
+![qwe](https://user-images.githubusercontent.com/84003327/185027695-6ac5b5f0-f93c-491d-a8cd-9ab98c0a1323.png)
